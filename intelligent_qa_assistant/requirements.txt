@@ -1,0 +1,18 @@
+# PDF processing (for extracting selectable text)
+PyMuPDF
+
+# Text vectorization
+sentence-transformers
+
+# Vector store
+faiss-cpu
+# For GPU support, use faiss-gpu instead (requires CUDA)
+
+# For LLM API calls
+requests
+
+# RAG Core (to be added later)
+# e.g., sentence-transformers, faiss-cpu, langchain, etc.
+
+# UI (to be added later)
+# e.g., streamlit, flask, gradio, etc.
